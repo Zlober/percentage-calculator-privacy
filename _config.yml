@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Privacy Policy - Percentage Calculator Extension
+description: Privacy policy for our Chrome extension that calculates percentages.
+show_downloads: false
