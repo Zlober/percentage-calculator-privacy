@@ -4,7 +4,7 @@ layout: default
 
 # Privacy Policy for Percentage Calculator Extension
 
-_Last updated: [Current Date]_
+_Last updated: 19.10.2024
 
 ## 1. Introduction
 
@@ -40,7 +40,7 @@ We may update this policy from time to time. We will notify you of any changes b
 
 ## 7. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [Your Contact Email].
+If you have any questions about this Privacy Policy, please contact us at sos31337@gmail.com.
 
 ---
 
